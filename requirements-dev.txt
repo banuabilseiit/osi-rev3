@@ -1,0 +1,5 @@
+-r requirements.txt
+pytest>=8
+pycodestyle>=2.11
+# необязательно, для сравнения эмбеддингов (нужен доступ к Hugging Face):
+# sentence-transformers>=3.0

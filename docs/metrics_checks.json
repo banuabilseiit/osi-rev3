@@ -1,0 +1,58 @@
+{
+  "sum_mismatch": {
+    "tp": 103,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  "balance_savings": {
+    "tp": 68,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  "balance_current": {
+    "tp": 90,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  "jump": {
+    "tp": 87,
+    "fp": 0,
+    "fn": 1,
+    "precision": 1.0,
+    "recall": 0.989,
+    "f1": 0.994
+  },
+  "legal_form": {
+    "tp": 83,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  "suspicious_item": {
+    "tp": 86,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  "duplicate_payment": {
+    "tp": 93,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  }
+}

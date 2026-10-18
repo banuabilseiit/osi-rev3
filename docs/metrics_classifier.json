@@ -1,0 +1,30 @@
+[
+  {
+    "model": "tfidf_char+logreg",
+    "synthetic_acc": 0.434,
+    "synthetic_f1": 0.414,
+    "real_acc": 0.914,
+    "real_f1": 0.91
+  },
+  {
+    "model": "tfidf_word+logreg",
+    "synthetic_acc": 0.343,
+    "synthetic_f1": 0.328,
+    "real_acc": 0.897,
+    "real_f1": 0.903
+  },
+  {
+    "model": "tfidf_char+svm",
+    "synthetic_acc": 0.441,
+    "synthetic_f1": 0.41,
+    "real_acc": 0.914,
+    "real_f1": 0.91
+  },
+  {
+    "model": "tfidf_word+nb",
+    "synthetic_acc": 0.357,
+    "synthetic_f1": 0.329,
+    "real_acc": 0.862,
+    "real_f1": 0.89
+  }
+]
